@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://home.0xdroopy.live/sitemap.xml
